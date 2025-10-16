@@ -8,7 +8,7 @@ This project is a multi-agent Retrieval-Augmented Generation (RAG) assistant des
 
 **Vector Database:** Stores and queries semantic chunks using ChromaDB.
 
-**Semantic Search: **Finds the most relevant information for a research query.
+**Semantic Search:** Finds the most relevant information for a research query.
 
 **Research Synthesis:** Summarizes retrieved content and provides citations.
 
